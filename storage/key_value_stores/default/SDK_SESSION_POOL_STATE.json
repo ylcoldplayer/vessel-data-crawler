@@ -1,0 +1,69 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_hkqcy9O9AS",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-23T02:51:38.801Z",
+      "createdAt": "2023-12-23T02:01:38.801Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_Itjf5oPixW",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.3",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "JSESSIONID",
+            "value": "6CA4498A5D5A563EE8A2316ED79877BB",
+            "expires": "2023-12-23T02:51:40.111Z",
+            "domain": "www.sse.net.cn",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2023-12-23T02:01:40.113Z",
+            "lastAccessed": "2023-12-23T02:01:40.113Z"
+          },
+          {
+            "key": "route",
+            "value": "427d34b0adc9e972544367901f6380c7",
+            "expires": "2023-12-23T02:51:40.111Z",
+            "domain": "www.sse.net.cn",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2023-12-23T02:01:40.115Z",
+            "lastAccessed": "2023-12-23T02:01:40.115Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2023-12-23T02:51:38.803Z",
+      "createdAt": "2023-12-23T02:01:38.803Z",
+      "usageCount": 2,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

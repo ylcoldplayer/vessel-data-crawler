@@ -1,0 +1,9 @@
+{
+	"id": "UPN8uKnR8niikUz",
+	"json": "{\"id\":\"UPN8uKnR8niikUz\",\"url\":\"https://www.sse.net.cn/index/singleIndex?indexType=ccfi\",\"loadedUrl\":\"https://www.sse.net.cn/index/singleIndex?indexType=ccfi\",\"uniqueKey\":\"https://www.sse.net.cn/index/singleIndex?indexType=ccfi\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2023-12-23T02:01:40.147Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.sse.net.cn/index/singleIndex?indexType=ccfi",
+	"url": "https://www.sse.net.cn/index/singleIndex?indexType=ccfi"
+}

@@ -1,0 +1,31 @@
+"https://www.balticexchange.com/en/index.html": "Please help extract BCI, BPI, BSI, BDI, BHSI, BCTI, BDTI, BLPG, BLNG, BOPEX index from the content,
+“https://www.sse.net.cn/index/singleIndex?indexType=ccfi”: “Please help extract 本期中国出口集装箱运价综合指数from the content,
+“https://www.sse.net.cn/index/singleIndex?indexType=scfi”: “Please help extract 本期上海出口集装箱运价指数综合指数from the content,
+“https://www.sse.net.cn/index/singleIndex?indexType=cdi”: “Please help extract 中国沿海散货船舶日租金指数(CDI)综合指数，巴拿马型7.6万dwt日租金，大灵便型5.7万dwt日租金，大灵便4.8万dwt日租金，灵便型3.7万dwt日租金，灵便型2.7万dwt，灵便型1.0万dwt日租金from the content,
+“https://www.sse.net.cn/index/singleIndex?indexType=scfi”: “Please help extract 新华·泛亚航运中国内贸集装箱运价指数（XH·PDCI）和日期from the content,
+“https://cn.investing.com/indices/usdollar”: “Please help extract 美元指数from the content,【连续交易数据，我们需要取固定早上8点的数据】
+“https://cn.investing.com/currencies/usd-cny”: “Please help extract USD-CNY人民币美元汇率from the content, 连续交易数据，我们需要取固定早上8点的数据】
+“https://quote.eastmoney.com/globalfuture/GC00Y.html”: “Please help extract COMEX黄金价格from the content, 连续交易数据，我们需要取固定早上8点的数据】
+“https://quote.eastmoney.com/globalfuture/B00Y.html”: “Please help extract 布伦特原油当月连续价格from the content, 连续交易数据，我们需要取固定早上8点的数据】
+“https://finance.sina.com.cn/futures/quotes/OIL.shtml”: “Please help extract 布伦特原油CFD价格from the content, 连续交易数据，我们需要取固定早上8点的数据】
+“https://finance.sina.com.cn/futures/quotes/CL.shtml”: “Please help extract WTI纽约原油CFD价格from the content, 连续交易数据，我们需要取固定早上8点的数据】
+“https://shipandbunker.com/prices/apac/sea/sg-sin-singapore#IFO380”: “Please help extract latest price of Intermediate Fuel Oil, 380cSt and date from the content,【这个网站的数据个别时候更新时间比较晚，所以要确认一下最新一组的数据是哪一天的】
+“https://shipandbunker.com/prices/apac/sea/sg-sin-singapore#VLSFO”: “Please help extract latest price of VLSFO Fuel Oil and date from the content, 【这个网站的数据个别时候更新时间比较晚，所以要确认一下最新一组的数据是哪一天的】
+“https://quote.eastmoney.com/gb/zsCRB.html”: “Please help extract 路透CRB商品指数及对应的日期from the content,
+“https://webhq.nanhua.net/#/market”: “Please help extract 华商品指数最新价from the content,
+“https://www.barchart.com/futures/quotes/TR*0/futures-prices”: “Please help extract price of Iron Ore 62% fe and corresponding date from the content,
+“https://index.mysteel.com/price/getChartMultiCity_4_0.html”: “Please help extract 上海市10mm造船板价格，上海市20mm造船板价格，广州市10mm造船板价格，广州市20mm造船板价格，南京市10mm造船板价格，南京市20mm造船板价格from the content, 【这个网页上默认显示的是上海10mm的造船板价格，如果要找其他的，需要从下拉菜单中选择】
+“https://www.shibor.org/shibor/index.html”: “Please help extract 各个期限的SHIBOR报价及对应日期，各个期限的LPR报价及对应日期from the content,
+“https://yield.chinabond.com.cn/cbweb-mn/yield_main?locale=zh_CN#”: “Please help extract 各个标准期限的国债收益率及对应的日期from the content,
+“https://www.cmegroup.com/market-data/cme-group-benchmark-administration/term-sofr.html”: “Please help extract latest OVERNIGHT SOFR, CME TERM SOFR in 1 month/ 3 month/ 6 month/ 12 month terms from the content, 【这个网站需要翻墙，需要登录，用户名：WILSON.YANG@POPLARSMARITIME.COM，密码：Entropycme001】
+“https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2023”: “Please help extract treasury yield of each terms from the content,
+“https://sc.macromicro.me/charts/41892/china-carbon-trading-market”: “Please help extract 中国-碳权价格及对应日期from the content,
+“https://www.chinatcx.com.cn/list/13.html”: “Please help extract TJEA23产品的最新线上交易成交均价及对应日期from the content,
+“https://sc.macromicro.me/charts/34353/ice-eua-futures”: “Please help extract ICE-碳排放权期货价格[EUA] and date, and KraneShares-全球碳ETF[KRBN]-还原价格and date from the content,
+“https://www.cbeex.com.cn/”: “Please help extract 最新的北京试点碳交易的成交均价及日期from the content,
+“https://www.marketscreener.com/quote/index/MSCI-WORLD-TRANSPORTATION-121735109/graphics/”: “Please help extract MSCI WORLD/TRANSPORTATION (GDTR) from the content,
+“https://www.euribor-rates.eu/en/”: “Please help extract Euribor of each terms from the content,
+“http://quote.eastmoney.com/qihuo/ecm.html”: “Please help extract 欧线集运主连当日结算价from the content,
+“http://quote.eastmoney.com/qihuo/ecs.html”: “Please help extract 欧线集运次主连当日结算价from the content,
+“https://www.chathamfinancial.com/technology/us-market-rates?utm_source=google&utm_medium=search&utm_campaign=wc_cs_chatham_rates_market_rates&creative=659079486429&keyword=term%20sofr&matchtype=b&network=g&device=c”: “Please help extract current 1-month Term SOFR swap rates of each terms from the content,
+
